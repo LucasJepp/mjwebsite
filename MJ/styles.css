@@ -1,0 +1,17 @@
+
+body {
+    background-color: #e6f2ff;  /* Light blue background */
+    font-family: Arial, sans-serif;  /* Specify font family */
+  }
+  
+  h1, h2 {
+    color: #007bff;  /* Blue color for headings */
+    font-weight: bold;  /* Make headings bold */
+  }
+  
+  .image-container {
+    border: 1px solid #ddd;  /* Add border to image container */
+    padding: 10px;  /* Add padding around the image */
+    margin: 10px auto;  /* Add margin for better positioning */
+    width: 50%;  /* Set width for the image container */
+  }
